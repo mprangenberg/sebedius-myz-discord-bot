@@ -45,7 +45,7 @@
     "lint": "eslint .",
     "docs": "docsify init ./docs & npm run docs-serve",
     "docs-serve": "docsify serve ./docs",
-    "gendoc": "jsdoc ./yearzero/YZRoll.js"
+    "gendoc": "jsdoc ./yearzero/YZRoll.js -d ./docs"
   },
   "dependencies": {
     "@keyv/postgres": "^1.0.16",
