@@ -42,7 +42,8 @@
   "scripts": {
     "test": "mocha",
     "start": "node .",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "docs": "lwc ./sebedius-myz-discord-bot.wiki"
   },
   "dependencies": {
     "@keyv/postgres": "^1.0.16",
@@ -58,6 +59,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^7.8.1",
+    "limedocs-wiki-converter": "^0.1.12",
     "mocha": "^8.1.3"
   }
 }
