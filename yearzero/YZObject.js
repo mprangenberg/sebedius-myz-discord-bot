@@ -21,6 +21,7 @@ const CATALOG_SOURCES = {
 	MONSTERS: {
 		myz: './gamedata/myz/myz-monsters-catalog.en.csv',
 		alien: './gamedata/alien/alien-monsters-catalog.en.csv',
+		coriolis: './gamedata/coriolis/coriolis-monsters-catalog.en.csv',
 		fbl: './gamedata/fbl/fbl-monsters-catalog.en.csv',
 	},
 };
