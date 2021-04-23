@@ -113,6 +113,7 @@ module.exports = {
 		fbl: ['fbr', 'froz'],
 		tales: ['things', 'tftf'],
 		alien: ['dow'],
+		coriolis: [],
 	},
 	CARDS_ICONS: [
 		'0️⃣',
